@@ -35,9 +35,6 @@ wheels/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Data files (large CSVs)
-data/raw/*.csv
-data/processed/*.csv
 
 # ML Models
 *.keras
